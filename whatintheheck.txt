@@ -1,0 +1,26 @@
+backend		(Server-Side Rust) web server, runs on cloud. Use for:
+	heavy computation requiring powerful hardware
+	data thats ALWYAS changing
+	multi-user coordination
+	persistent storage
+	
+shared		(Client-Side Rust) runs on devices use for:
+	Real-time sensor processing
+	offline functionality
+	battery sensitive operations
+	quick response time
+
+
+Save room coordinate information using verticies (treat room like a polygon!!!!!)
+it should be RELATIVE location from a point WITHIN THE SCHOOL
+
+schema?
+what is a relational database
+
+
+
+Screen:
+	android -> Canvas (object)
+	iOS	-> SwiftUI Coregraphics?
+
+The rooms and school need to be "drawn" from the coordinate information
